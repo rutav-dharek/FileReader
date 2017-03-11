@@ -1,0 +1,5 @@
+E:\Learning\Visual Studio 2013 Projects\4 ReadFile\ReadFile\ReadFile\bin\Debug\ReadFile.exe.config
+E:\Learning\Visual Studio 2013 Projects\4 ReadFile\ReadFile\ReadFile\bin\Debug\ReadFile.exe
+E:\Learning\Visual Studio 2013 Projects\4 ReadFile\ReadFile\ReadFile\bin\Debug\ReadFile.pdb
+E:\Learning\Visual Studio 2013 Projects\4 ReadFile\ReadFile\ReadFile\obj\Debug\ReadFile.exe
+E:\Learning\Visual Studio 2013 Projects\4 ReadFile\ReadFile\ReadFile\obj\Debug\ReadFile.pdb
